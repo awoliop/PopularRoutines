@@ -9,6 +9,26 @@
       "Barbell_Curl",
       "Barbell_Lunge",
       "Dips_-_Chest_Version"
+    ],
+    "Suggestions": [
+      "Focus on foundational movements like squats, deadlifts, bench presses, and rows.",
+      "Incorporate Olympic lifts such as snatches and clean and jerks.",
+      "Use exercises like push-ups, pull-ups, and bodyweight squats.",
+      "Utilize resistance bands for exercises like banded squats, rows, and chest presses."
+    ],
+    "Cautions": [
+      "Always prioritize proper form to prevent injuries.",
+      "Increase weights and intensity gradually.",
+      "Allow adequate recovery time between sessions."
+    ],
+    "Restrictions": [
+      "Individuals with heart conditions, joint issues, or back problems should consult a doctor before starting.",
+      "Older adults may need modifications and lighter weights."
+    ],
+    "Mandatories Prior to Workout": [
+      "Perform at least 10 minutes of dynamic warm-up exercises.",
+      "Wear appropriate workout clothes and shoes.",
+      "Ensure you're well-hydrated before starting the session."
     ]
   },
   {
@@ -20,6 +40,26 @@
       "Rope_Jumping",
       "Stairmaster",
       "Rowing_Stationary"
+    ],
+    "Suggestions": [
+      "Alternate between high-intensity exercises and rest periods.",
+      "Engage in consistent, moderate-intensity activities like jogging or cycling.",
+      "Combine dance moves with cardio exercises.",
+      "Use boxing techniques combined with cardio drills."
+    ],
+    "Cautions": [
+      "Keep track of your heart rate to avoid overexertion.",
+      "Be mindful of high-impact exercises if you have joint issues.",
+      "Maintain proper breathing techniques to ensure oxygen delivery."
+    ],
+    "Restrictions": [
+      "People with heart conditions should seek medical advice before starting.",
+      "Those with asthma or other respiratory issues should take necessary precautions."
+    ],
+    "Mandatories Prior to Workout": [
+      "Engage in 5-10 minutes of light cardio to prepare your body.",
+      "Drink water before starting to prevent dehydration.",
+      "Wear breathable and comfortable workout attire."
     ]
   },
   {
@@ -32,6 +72,26 @@
       "Calf_Stretch_Hands_Against_Wall",
       "Kneeling_Hip_Flexor",
       "Piriformis-SMR"
+    ],
+    "Suggestions": [
+      "Focus on various poses that enhance flexibility and balance.",
+      "Incorporate exercises that strengthen the core and improve flexibility.",
+      "Perform static and dynamic stretches targeting different muscle groups.",
+      "Use foam rollers to release muscle tightness and improve mobility."
+    ],
+    "Cautions": [
+      "Avoid pushing your body beyond its limits to prevent injuries.",
+      "Ensure correct body alignment during exercises.",
+      "Coordinate your breathing with movements to enhance effectiveness."
+    ],
+    "Restrictions": [
+      "People with existing injuries should avoid certain stretches and consult a professional.",
+      "Pregnant women should seek advice on appropriate exercises."
+    ],
+    "Mandatories Prior to Workout": [
+      "Do light activities to increase blood flow to muscles.",
+      "Ensure you have enough space to move freely.",
+      "Use a mat to provide cushioning and support."
     ]
   },
   {
@@ -43,6 +103,26 @@
       "Olympic_Squat",
       "Wide_Stance_Stiff_Legs",
       "Circus_Bell"
+    ],
+    "Suggestions": [
+      "Rotate through various exercises targeting different muscle groups.",
+      "Use kettlebells for dynamic movements like swings and snatches.",
+      "Perform bodyweight exercises such as burpees, lunges, and planks.",
+      "Utilize TRX straps for suspension exercises that engage the core."
+    ],
+    "Cautions": [
+      "Master basic movements before attempting more complex exercises.",
+      "Perform exercises with control to maintain proper form.",
+      "Maintain steady breathing patterns throughout the workout."
+    ],
+    "Restrictions": [
+      "Those with balance problems should be cautious with certain exercises.",
+      "Individuals with past injuries should modify exercises as needed."
+    ],
+    "Mandatories Prior to Workout": [
+      "Engage in dynamic movements to prepare your muscles.",
+      "Ensure proper hydration before starting the workout.",
+      "Have the necessary equipment like kettlebells, TRX straps, and mats."
     ]
   }
 ]
