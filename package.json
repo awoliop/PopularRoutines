@@ -1,0 +1,14 @@
+{
+  "name": "popularroutines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "PopularRtouines.js",
+  "scripts": {
+    "nodemon": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
