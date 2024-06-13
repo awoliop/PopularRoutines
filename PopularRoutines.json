@@ -1,6 +1,6 @@
 [
   {
-    "RoutineID": "A.strength",
+    "RoutineID": "strength",
     "RoutineContent": [
       "3_4_Sit-Up",
       "90_90_Hamstring",
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "RoutineID": "B.Cardio",
+    "RoutineID": "Cardio",
     "RoutineContent": [
       "Running_Treadmill",
       "Elliptical_Trainer",
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "RoutineID": "C.Flexibility_and_Mobility",
+    "RoutineID": "Flexibility_and_Mobility",
     "RoutineContent": [
       "Arm_Circles",
       "Ankle_Circles",
