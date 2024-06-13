@@ -1,82 +1,48 @@
 [
   {
-    "RoutineName": "Routine 1",
+    "RoutineID": "A.strength",
     "RoutineContent": [
-      "Workout 1",
-      "Workout 2",
-      "Workout 3",
-      "Workout 4",
-      "Workout 5",
-      "Workout 6",
-      "Workout 7",
-      "Workout 8",
-      "Workout 9",
-      "Workout 10",
-      "Workout 11",
-      "Workout 12",
-      "Workout 13",
-      "Workout 14",
-      "Workout 15"
+      "3_4_Sit-Up",
+      "90_90_Hamstring",
+      "Alternate_Hammer_Curl",
+      "Alternate_Leg_Diagonal_Bound",
+      "Barbell_Curl",
+      "Barbell_Lunge",
+      "Dips_-_Chest_Version"
     ]
   },
   {
-    "RoutineName": "Routine 2",
+    "RoutineID": "B.Cardio",
     "RoutineContent": [
-      "Workout 1",
-      "Workout 2",
-      "Workout 3",
-      "Workout 4",
-      "Workout 5",
-      "Workout 6",
-      "Workout 7",
-      "Workout 8",
-      "Workout 9",
-      "Workout 10",
-      "Workout 11",
-      "Workout 12",
-      "Workout 13",
-      "Workout 14",
-      "Workout 15"
+      "Running_Treadmill",
+      "Elliptical_Trainer",
+      "Prowler_Sprint",
+      "Rope_Jumping",
+      "Stairmaster",
+      "Rowing_Stationary"
     ]
   },
   {
-    "RoutineName": "Routine 3",
+    "RoutineID": "C.Flexibility_and_Mobility",
     "RoutineContent": [
-      "Workout 1",
-      "Workout 2",
-      "Workout 3",
-      "Workout 4",
-      "Workout 5",
-      "Workout 6",
-      "Workout 7",
-      "Workout 8",
-      "Workout 9",
-      "Workout 10",
-      "Workout 11",
-      "Workout 12",
-      "Workout 13",
-      "Workout 14",
-      "Workout 15"
+      "Arm_Circles",
+      "Ankle_Circles",
+      "Frog_Hops",
+      "Leg-Up_Hamstring_Stretch",
+      "Calf_Stretch_Hands_Against_Wall",
+      "Kneeling_Hip_Flexor",
+      "Piriformis-SMR"
     ]
   },
   {
-    "RoutineName": "Routine 4",
+    "RoutineID": "D.Olympic",
     "RoutineContent": [
-      "Workout 1",
-      "Workout 2",
-      "Workout 3",
-      "Workout 4",
-      "Workout 5",
-      "Workout 6",
-      "Workout 7",
-      "Workout 8",
-      "Workout 9",
-      "Workout 10",
-      "Workout 11",
-      "Workout 12",
-      "Workout 13",
-      "Workout 14",
-      "Workout 15"
+      "Clean",
+      "Frankenstein_Squat",
+      "Kneeling_Jump_Squat",
+      "Olympic_Squat",
+      "Wide_Stance_Stiff_Legs",
+      "Circus_Bell"
     ]
   }
 ]
