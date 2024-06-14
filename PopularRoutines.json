@@ -63,7 +63,7 @@
     ]
   },
   {
-    "RoutineID": "Flexibility_and_Mobility",
+    "RoutineID": "Flexibility",
     "RoutineContent": [
       "Arm_Circles",
       "Ankle_Circles",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "RoutineID": "D.Olympic",
+    "RoutineID": "Olympic",
     "RoutineContent": [
       "Clean",
       "Frankenstein_Squat",
